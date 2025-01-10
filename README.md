@@ -9,5 +9,3 @@ Page rank is very cool. Too bad Google barely uses it anymore. I guess advertisi
 I keep forgetting to map the stack. Long live the kernel!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnmappedStack&theme=tokyonight)
-
-[![UnmappedStack profile views](https://u8views.com/api/v1/github/profiles/163998065/views/day-week-month-total-count.svg)](https://u8views.com/github/UnmappedStack)
